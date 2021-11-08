@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
+.topContent{
+    color:brown;
+    position: relative;
+    background-color:yellowgreen;
+
+    }
+    .topContent__container{
+        position:sticky;
+        top: 300px;
+        right: 150px;
+    }
+
+    .topContent__container > a >button{
+        margin-top:30px;
+        text-align: left;
+        margin-left: 5px;
+        border-radius: 2px!important;
+        outline: none;
+    }
+    .topContent__container > h1{
+        font-size: 50px;
+        font-family:sans-serif;
+    }
+        .topContent__locationButton{
+            color: white;
+            background-color:blue;
+            font-size: 25px;
+            
+            Padding: 10px 30px;
+            font-family:sans-serif;
+            cursor: pointer;
+            margin-right: 20px;}
+            .topContent__locationButton:hover{
+                color: #f64c08;
+                background-color: white;
+                font-weight: 600;
+                
+            }
+   
+            .topContent__viewButton{
+            color:white;
+            border: 1px solid white;
+            background-color:orangered;
+            font-size: 25px;
+            padding: 9px 45px;
+            font-family:sans-serif;
+            font-weight: 300;
+            cursor: pointer;
+}
+           .topContent__viewButton:hover{
+               color: black;
+            background-color: white;
+            font-weight: 600;
+ }
+
+ .button-space{
+     margin: 5px;
+     align-items: center;
+ }
+.message{
+    margin: 20px 190px 10px 125px;
+    text-align: justify;
+    letter-spacing: 1px;
+    font-size: 25px;
+}
+
+    

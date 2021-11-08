@@ -1,0 +1,9 @@
+.ProductsContainer__ratebutton
+{
+    background-color:orangered;
+    color:white;
+    padding: 5px 20px;
+    border-radius: 2px;
+    cursor:pointer;
+
+}
