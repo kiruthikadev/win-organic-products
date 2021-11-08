@@ -40,6 +40,9 @@ const TopContent = () => {
 <Element name="fragrance spices">
 
 </Element>
+<Element name="contact us">
+    
+</Element>
 
       
       </div>
