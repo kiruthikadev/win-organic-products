@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/win-organic-products/static/css/main.5e77e713.chunk.css",
-    "main.js": "/win-organic-products/static/js/main.3c4e3500.chunk.js",
-    "main.js.map": "/win-organic-products/static/js/main.3c4e3500.chunk.js.map",
-    "runtime-main.js": "/win-organic-products/static/js/runtime-main.0bbba93c.js",
-    "runtime-main.js.map": "/win-organic-products/static/js/runtime-main.0bbba93c.js.map",
-    "static/js/2.e0cfbe24.chunk.js": "/win-organic-products/static/js/2.e0cfbe24.chunk.js",
-    "static/js/2.e0cfbe24.chunk.js.map": "/win-organic-products/static/js/2.e0cfbe24.chunk.js.map",
-    "static/js/3.a70e0e31.chunk.js": "/win-organic-products/static/js/3.a70e0e31.chunk.js",
-    "static/js/3.a70e0e31.chunk.js.map": "/win-organic-products/static/js/3.a70e0e31.chunk.js.map",
+    "main.css": "/win-organic-products/static/css/main.853def79.chunk.css",
+    "main.js": "/win-organic-products/static/js/main.0fe8717b.chunk.js",
+    "main.js.map": "/win-organic-products/static/js/main.0fe8717b.chunk.js.map",
+    "runtime-main.js": "/win-organic-products/static/js/runtime-main.dccbb491.js",
+    "runtime-main.js.map": "/win-organic-products/static/js/runtime-main.dccbb491.js.map",
+    "static/js/2.b4e83134.chunk.js": "/win-organic-products/static/js/2.b4e83134.chunk.js",
+    "static/js/2.b4e83134.chunk.js.map": "/win-organic-products/static/js/2.b4e83134.chunk.js.map",
+    "static/js/3.7c48e6a1.chunk.js": "/win-organic-products/static/js/3.7c48e6a1.chunk.js",
+    "static/js/3.7c48e6a1.chunk.js.map": "/win-organic-products/static/js/3.7c48e6a1.chunk.js.map",
     "index.html": "/win-organic-products/index.html",
-    "static/css/main.5e77e713.chunk.css.map": "/win-organic-products/static/css/main.5e77e713.chunk.css.map",
-    "static/js/2.e0cfbe24.chunk.js.LICENSE.txt": "/win-organic-products/static/js/2.e0cfbe24.chunk.js.LICENSE.txt",
+    "static/css/main.853def79.chunk.css.map": "/win-organic-products/static/css/main.853def79.chunk.css.map",
+    "static/js/2.b4e83134.chunk.js.LICENSE.txt": "/win-organic-products/static/js/2.b4e83134.chunk.js.LICENSE.txt",
     "static/media/TopContainer.css": "/win-organic-products/static/media/5bd1be4a76b1f.fee09ca5.jpeg",
     "static/media/Bay-Leaf.57c896c4.jpg": "/win-organic-products/static/media/Bay-Leaf.57c896c4.jpg",
     "static/media/blackpepper.dd1db9a5.jpg": "/win-organic-products/static/media/blackpepper.dd1db9a5.jpg",
@@ -21,9 +21,9 @@
     "static/media/honey.f9f2eec2.jpg": "/win-organic-products/static/media/honey.f9f2eec2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0bbba93c.js",
-    "static/js/2.e0cfbe24.chunk.js",
-    "static/css/main.5e77e713.chunk.css",
-    "static/js/main.3c4e3500.chunk.js"
+    "static/js/runtime-main.dccbb491.js",
+    "static/js/2.b4e83134.chunk.js",
+    "static/css/main.853def79.chunk.css",
+    "static/js/main.0fe8717b.chunk.js"
   ]
 }
